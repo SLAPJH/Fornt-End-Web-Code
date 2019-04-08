@@ -5,10 +5,13 @@
 - 개발자 소개
   - 박현상
   - 강주현
+  - 김준현
 - 사용된 마크업 언어 및 프로그래밍 언어
   - HTML5
   - CSS3
   - JavaScript
+  - C
+  - python
 
 ## 개발자 소개
 
@@ -19,6 +22,10 @@
 **목포대학교 정보보호영재교육원 6기 고등기초심화 강주현(HTML5,CSS3, React.js)**  
 [Facebook](https://www.facebook.com/profile.php?id=100010207724135)  
 [GitHub](https://github.com/JuhyeonK)
+
+**목포대학교 정보보호영재교육원 6기 고등기초심화 김준현(HTML5,CSS3, React.js)**  
+[Facebook](https://www.facebook.com/junhyone.kim)  
+[GitHub](https://github.com/SLAPJH)
 
 ## 사용된 마크업 언어 및 프로그래밍 언어
 
@@ -33,4 +40,8 @@ HTML5,CSS3,JavaScript, React.js
 ### JavaScript
 백엔드와 같이 사용하며, 각종 팝업창과 다른 프레임워크에도 사용되며, 보안을 추구합니다.
 
+### C
+대중적으로 많이 사용하는 프로그래밍 언어입니다.
 
+### python
+c언어를 경량화 한 언어 입니다.
